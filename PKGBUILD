@@ -1,5 +1,5 @@
 pkgname=libvirglrenderer
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc='An OpenGL renderer for virtual machines.'
 arch=('x86_64')
